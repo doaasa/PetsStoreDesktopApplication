@@ -1,0 +1,10 @@
+E:\Ado Projects\PetsStore\Splash\bin\Debug\Splash.exe.config
+E:\Ado Projects\PetsStore\Splash\bin\Debug\Splash.exe
+E:\Ado Projects\PetsStore\Splash\bin\Debug\Splash.pdb
+E:\Ado Projects\PetsStore\Splash\obj\Debug\Splash.csproj.AssemblyReference.cache
+E:\Ado Projects\PetsStore\Splash\obj\Debug\Splash.Form1.resources
+E:\Ado Projects\PetsStore\Splash\obj\Debug\Splash.Properties.Resources.resources
+E:\Ado Projects\PetsStore\Splash\obj\Debug\Splash.csproj.GenerateResource.cache
+E:\Ado Projects\PetsStore\Splash\obj\Debug\Splash.csproj.CoreCompileInputs.cache
+E:\Ado Projects\PetsStore\Splash\obj\Debug\Splash.exe
+E:\Ado Projects\PetsStore\Splash\obj\Debug\Splash.pdb
